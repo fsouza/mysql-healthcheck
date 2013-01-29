@@ -1,0 +1,4 @@
+mysql-healthcheck
+
+This is a very simple webserver that just tries to connect to a local MySQL
+server and returns if it's ok.
